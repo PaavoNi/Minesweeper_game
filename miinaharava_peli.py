@@ -1,5 +1,7 @@
 """
-pelin pyörittämiseen vaadittavat funktiot
+Author : Paavo Nikkari
+
+Functions requiered to run the minesweeper
 """
 from random import randint, choice
 import time
