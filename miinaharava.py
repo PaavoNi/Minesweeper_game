@@ -1,4 +1,6 @@
 """
+Author : Paavo Nikkari
+
 Main program for minesweeper
 """
 from sys import exit
