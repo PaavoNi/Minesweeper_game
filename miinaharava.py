@@ -1,5 +1,5 @@
 """
-Pääohjelma, tämän ajamalla voit tallata miinoja!
+Main program for minesweeper
 """
 from sys import exit
 import os
